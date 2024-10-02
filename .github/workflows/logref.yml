@@ -4,7 +4,7 @@ name: update logref
 
 on:
   push:
-    branches: [main]
+    branches: [v1, v2]
     paths:
       - Logs/**
       - .github/workflows/logs/**
@@ -35,4 +35,4 @@ jobs:
           git config --global user.email ${{ github.event.pusher.email }}
       
       - name: Run the scripts
-        run: node ./logref.js --username=${{ github.actor }} --useremail=${{ github.event.pusher.email }} --commitmsg=${{ github.event.head_commit.message }}
+        run: node ./logref.js --username=${{ github.actor }} --useremail=${{ github.event.pusher.email }} --branch=${{ github.ref_name }} --commitmsg=${{ github.event.head_commit.message }}

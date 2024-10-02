@@ -28,10 +28,12 @@ const args = getArgs();
 const username = args.username;
 const useremail = args.useremail;
 const commitmsg = args.commitmsg;
+const branch = args.branch;
 
 console.log(username);
 console.log(useremail);
 console.log(commitmsg);
+console.log(branch);
 
 /*fetch(`https://api.github.com/user/${username}`, {
   "headers": {
@@ -47,8 +49,8 @@ console.log('test');
 
 let base = "https://github.com/ReRand/RENTED";
 
-let tree = `${base}/tree/main/Logs`;
-let blob = `${base}/blob/main/Logs`
+let tree = `${base}/tree/${branch}/Logs`;
+let blob = `${base}/blob/${branch}/Logs`
 
 let sep = (__dirname.includes("/")) ? "/" : "\\";
 
@@ -64,7 +66,7 @@ let content = [
   "",
   "# LogRef",
   "this is where log references are for easier navigation<br>",
-  '<img height=22 src="https://github.com/ReRand/RENTED/actions/workflows/logref.yml/badge.svg" alt="publish">',
+  `<img height=22 src="${base}/actions/workflows/logref.yml/badge.svg alt="publish">`,
   "",
   "---",
   "",
