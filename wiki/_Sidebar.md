@@ -5,6 +5,44 @@
 
 <details>
 
+<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Locations">🛈</a> Locations </b> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Winchester%20St.) Winchester St. </b>
+>
+> </tr> </td>
+
+<tr> <td>
+<details> 
+<summary> <u> SPOILERS </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Sloppy%20Bobs) Sloppy Bobs </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+
 <summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Nights">🛈</a> Nights </b> </summary>
 
 <br>
