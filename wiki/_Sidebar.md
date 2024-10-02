@@ -5,7 +5,7 @@
 
 <details>
 
-<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Locations">🛈</a> Locations </b> </summary>
+<summary> <b> Locations </b> </summary>
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <details>
 
-<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Nights">🛈</a> Nights </b> </summary>
+<summary> <b> Nights </b> </summary>
 
 <br>
 
@@ -123,7 +123,7 @@
 
 <details>
 
-<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Enemies">🛈</a> Enemies </b> </summary>
+<summary> <b> Enemies </b> </summary>
 
 <br>
 
@@ -198,7 +198,7 @@
 
 <details>
 
-<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Key%20Items">🛈</a> Key Items </b> </summary>
+<summary> <b> Key Items </b> </summary>
 
 <br>
 
@@ -242,7 +242,7 @@
 
 <details>
 
-<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Rooms">🛈</a> Rooms </b> </summary>
+<summary> <b> Rooms </b> </summary>
 
 <br>
 
@@ -316,7 +316,7 @@
 
 <details>
 
-<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Characters">🛈</a> Characters </b> </summary>
+<summary> <b> Characters </b> </summary>
 
 <br>
 
