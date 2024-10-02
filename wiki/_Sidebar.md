@@ -1,4 +1,4 @@
-# Rented 🍔 wiki
+# RENTED 🍔 wiki
 ### [Home](https://github.com/ReRand/RENTED/wiki)
 
 <br>
