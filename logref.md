@@ -6,7 +6,7 @@
 
 this is where log references are for easier navigation<br>
 
-<img height=22 src="https://github.com/ReRand/RENTED/actions/workflows/logref.yml/badge.svg alt="publish">
+<img height=22 src="https://github.com/ReRand/RENTED/actions/workflows/logref.yml/badge.svg" alt="publish">
 
 
 
