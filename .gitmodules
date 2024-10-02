@@ -1,13 +1,3 @@
-# no worky :(((((
-
-[submodule "Revared"]
-	path = Game/Workspace/Modules/Revared
-	url = https://github.com/ReRand/Revared/tree/main/Revared
-
-[submodule "CameraShaker"]
-	path = Game/Workspace/Modules/CameraShaker
-	url = https://github.com/Sleitnick/RbxCameraShaker/tree/master/src/CameraShaker
-
 [submodule "Assets"]
 	path = Assets
-	url = https://github.com/ReRand/RENTED-assets
+	url = https://github.com/ReRand/RENTED-Assets
