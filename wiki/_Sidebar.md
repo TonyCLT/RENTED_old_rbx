@@ -540,13 +540,7 @@
 >
 > </tr> </td>
 
->  <tr> <td>
->
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/guh) placeholder </b>
->
-> </tr> </td>
-
-<table> <tr> <td>
+<tr> <td>
 <details> 
 <summary> <u> SPOILERS </u> </summary>
 
