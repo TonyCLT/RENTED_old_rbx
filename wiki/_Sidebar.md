@@ -39,7 +39,13 @@
 >
 > </tr> </td>
 
->  <tr> <td>
+<tr> <td>
+<details> 
+<summary> <u> SPOILERS </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
 >
 > <b> [🛈](https://github.com/ReRand/RENTED/wiki/Saturday) Saturday </b>
 >
@@ -51,6 +57,24 @@
 >
 > </tr> </td>
 
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Custom) Custom </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/PURGATORY) PURGATORY </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
 > </tr> </td> </table>
 
 <br>
