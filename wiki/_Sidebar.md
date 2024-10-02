@@ -91,16 +91,65 @@
 
 > <table> <tr> <td>
 >
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Disciple) Disciple </b>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Disciple) The Disciple </b>
 >
 > </tr> </td>
 
 >  <tr> <td>
 >
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/placeholder) placeholder </b>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Lector) The Lector </b>
 >
 > </tr> </td>
 
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Priest) The Priest </b>
+>
+> </tr> </td>
+
+
+<tr> <td>
+<details> 
+<summary> <u> SPOILERS </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Decidit) The Decidit </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Caedus) The Caedus </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Apsens) The Apsens </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Hass) The Hass </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Terno) The Terno </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
 > </tr> </td> </table>
 
 <br>
