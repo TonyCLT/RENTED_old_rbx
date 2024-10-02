@@ -522,7 +522,7 @@
 
 <br>
 
->  <tr> <td>
+> <table> <tr> <td>
 >
 > <b> [🛈](https://github.com/ReRand/RENTED/wiki/Your%20First%20Day) Your First Day </b>
 >
@@ -554,37 +554,13 @@
 
 > <table> <tr> <td>
 >
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Custom) Custom </b>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/placeholder) placeholder </b>
 >
 > </tr> </td>
 
 >  <tr> <td>
 >
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Phonophobia) Phonophobia </b>
->
-> </tr> </td>
-
->  <tr> <td>
->
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Scopophobia) Scopophobia </b>
->
-> </tr> </td>
-
->  <tr> <td>
->
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Achluophobia) Achluophobia </b>
->
-> </tr> </td>
-
->  <tr> <td>
->
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Daemonphobia) Daemonphobia </b>
->
-> </tr> </td>
-
->  <tr> <td>
->
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Atychiphobia) Atychiphobia </b>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/placeholder) placeholder </b>
 >
 > </tr> </td>
 
