@@ -399,3 +399,243 @@
 </details>
 
 <br>
+
+<details>
+
+<summary> <b> Tasks </b> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Generator) Generator </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Cobwebs) Cobwebs </b>
+>
+> </tr> </td>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+
+<summary> <b> Modes </b> </summary>
+
+<br>
+
+<table> <tr> <td>
+<details> 
+<summary> <u> literally this entire page is <b>SPOILERS</b> continue at your own risk </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Custom) Custom </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Phonophobia) Phonophobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Scopophobia) Scopophobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Achluophobia) Achluophobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Daemonphobia) Daemonphobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Atychiphobia) Atychiphobia </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+
+<summary> <b> Easter Eggs </b> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Rusk) Rusk </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Powie616) Powie616 </b>
+>
+> </tr> </td>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+
+<summary> <b> Badges </b> </summary>
+
+<br>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Your%20First%20Day) Your First Day </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Disciples'%20First%20Testament) Disciples' First Testament </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Hear%20The%20Saint's%20Call) Hear The Saint's Call </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/guh) placeholder </b>
+>
+> </tr> </td>
+
+<table> <tr> <td>
+<details> 
+<summary> <u> SPOILERS </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Custom) Custom </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Phonophobia) Phonophobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Scopophobia) Scopophobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Achluophobia) Achluophobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Daemonphobia) Daemonphobia </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Atychiphobia) Atychiphobia </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+
+<summary> <b> Endings </b> </summary>
+
+<br>
+
+<table> <tr> <td>
+<details> 
+<summary> <u> literally this entire page is <b>SPOILERS</b> continue at your own risk </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Aranea%20Ending) Aranea Ending </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Orsus%20Ending) Orsus Ending </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
