@@ -66,11 +66,7 @@ let content = [
   "",
   "# LogRef",
   "this is where log references are for easier navigation<br>",
-<<<<<<< HEAD
-  `<img height=22 src="${base}/actions/workflows/logref.yml/badge.svg" alt="publish">`,
-=======
-  `<img height=22 src="${base}/actions/workflows/logref.yml/badge.svg alt="publish">`,
->>>>>>> 87edbc06201acc5f00e095975a15d59669bc642e
+  `\<img height=22 src=\"${base}/actions/workflows/logref.yml/badge.svg\" alt=\"publish\"\>`,
   "",
   "---",
   "",
