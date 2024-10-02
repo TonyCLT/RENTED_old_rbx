@@ -11,7 +11,7 @@
 
 > <table> <tr> <td>
 >
-> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Winchester%20St.) Winchester St. </b>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Goat%20Farm%20St.) Goat Farm St. </b>
 >
 > </tr> </td>
 
