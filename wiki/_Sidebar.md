@@ -202,3 +202,89 @@
 </details>
 
 <br>
+
+<details>
+
+<summary> <b> <a href="https://github.com/ReRand/RENTED/wiki/Characters">🛈</a> Characters </b> </summary>
+
+<br>
+
+<table> <tr> <td>
+<details> 
+<summary> <u> literally this entire page is <b>SPOILERS</b> continue at your own risk </u> </summary>
+
+<br>
+
+> <table> <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Audrey%20Tanner) Audrey Tanner </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Jack%20Ryans) Jack Ryans </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Wesley%20Taylor) Wesley Taylor </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Andrew%20Blackwell) Andrew Blackwell </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Bob%20Stewie) Bob Stewie </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/The%20Hass) The Hass </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Tom%20Riley) Tom Riley </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Alice%20Riley) Alice Riley </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Frank%20Vinner) Frank Vinner </b>
+>
+> </tr> </td>
+
+>  <tr> <td>
+>
+> <b> [🛈](https://github.com/ReRand/RENTED/wiki/Charlie%20Ryans) Charlie Ryans </b>
+>
+> </tr> </td>
+
+> </tr> </td> </table>
+
+ 
+</details>
+
+> <tr> <td>
+> </tr> </td> </table>
+
+<br>
+
+</details>
+
+<br>
