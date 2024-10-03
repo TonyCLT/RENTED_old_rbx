@@ -29,11 +29,17 @@
 
 <br>
 
-#### Quote & Wishes
+#### Quote & Rules
 
 - The Hass' wishes have rules shown in the quote "Keepeth yond mortal spirits, keepeth yond holy wheel spineth."<br>
+
+- The Hass' rules are not self-imposed but are rather put in place by some higher beings to stop it from causing absolute havoc
+
+- The Hass can grant ANY wish but is held back by the rules like an AI getting bypassed to say and do things it's not meant to.
+
 - The first part of the quote, "Keepeth yond mortal spirits," refers to the lives of people as "mortal spirits" saying "keep that mortal spirits" meant to say it will not murder, it will not revive, and it will not mess with the mortality of people so no invincibility.<br> 
-- The second half of the quote, "keepeth yond holy wheel spineth," refers to a "holy wheel" that's spinning saying "keep that holy wheel spinning." The holy wheel is meant to represent a timeline of set events that The Hass is not able to massively manipulate with its wishes like changing the course of past and future history
+
+- The second half of the quote, "keepeth yond holy wheel spineth," refers to a "holy wheel" that's spinning saying "keep that holy wheel spinning." The holy wheel is meant to represent a timeline of set events that The Hass is not able to massively manipulate with its wishes like changing past and future history or making big changes to multiple things
 
 <br>
 
