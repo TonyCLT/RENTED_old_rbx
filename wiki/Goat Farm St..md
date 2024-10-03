@@ -23,7 +23,7 @@ some of the buildings in the street are:
 <div align="center" text-align="center">
 
 
-[*"Your First Day" badge icon*](https://github.com/ReRand/RENTED-assets/blob/e1b92a01a897732de80c646827a20d783992df24/badges/monday.png)
+[*placeholder*](https://github.com/ReRand/RENTED-assets/blob/e1b92a01a897732de80c646827a20d783992df24/badges/monday.png)
 
 
 </div>
