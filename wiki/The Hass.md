@@ -18,9 +18,7 @@
 
 #### Descriptions
 
-- The Hass is an ancient snake-like demon that feeds off of hate and violence
-
-- It's said that anyone who kills for it is given a wish<br>
+- The Hass is an ancient snake-like demon that feeds off of hate and violence and it's said that anyone who kills for it is given a wish<br>
 
 
 - It's at the center of the <b>[🛈](https://github.com/ReRand/RENTED/wiki/Blackwell%20Cult) Blackwell Cult</b> as it powers Andrew Blackwell's endevours.<br>
