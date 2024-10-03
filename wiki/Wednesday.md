@@ -3,7 +3,7 @@
 
 - Wednesday is the third night of the game and adds two new enemies being the lector the hass and possibly the priest<br>
 
-- on beating you get your first badge and get to move on to <b>[🛈](https://github.com/ReRand/RENTED/wiki/Wednesday) Wednesday</b> 
+- on beating you get your third badge and get to move on to <b>[🛈](https://github.com/ReRand/RENTED/wiki/Thursday) Thursday</b> 
 
 <br>
 

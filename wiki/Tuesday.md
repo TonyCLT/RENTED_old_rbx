@@ -3,7 +3,7 @@
 
 - Tuesday is the second night of the game and adds the first few possible threats primarily the disciple and possibly the lector<br>
 
-- on beating you get your first badge and get to move on to <b>[🛈](https://github.com/ReRand/RENTED/wiki/Wednesday) Wednesday</b> 
+- on beating you get your second badge and get to move on to <b>[🛈](https://github.com/ReRand/RENTED/wiki/Wednesday) Wednesday</b> 
 
 <br>
 
