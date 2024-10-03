@@ -1,5 +1,4 @@
 <table> <tr> <td>
-
 <br>
 
 - Monday is the first night of the game and is obviously the easiest having no threats to let the player adjust to the mechanics<br>
@@ -12,7 +11,7 @@
 
 <tr>
 
-<td> <h3>Enemies</h3> </td>
+<td> <h3>First Week Enemies</h3> </td>
 <td> <h3>Sloppy-Rated Difficulty</h3> </td>
 
 </tr>

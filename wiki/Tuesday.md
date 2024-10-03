@@ -1,8 +1,7 @@
 <table> <tr> <td>
-
 <br>
 
-- Tuesday is the second night of the game and adds the first few possible threats<br>
+- Tuesday is the second night of the game and adds the first few possible threats primarily the disciple and possibly the lector<br>
 
 - on beating you get your first badge and get to move on to <b>[🛈](https://github.com/ReRand/RENTED/wiki/Wednesday) Wednesday</b> 
 
@@ -12,7 +11,7 @@
 
 <tr>
 
-<td> <h3>Enemies</h3> </td>
+<td> <h3>First Week Enemies</h3> </td>
 <td> <h3>Sloppy-Rated Difficulty</h3> </td>
 
 </tr>
